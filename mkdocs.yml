@@ -1,0 +1,6 @@
+site_name: The Kasa Docs
+site_url: https://docs.kasa.finance/
+nav:
+  - Home: index.md
+  - Why: why.md
+theme: readthedocs
